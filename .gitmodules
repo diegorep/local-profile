@@ -1,0 +1,18 @@
+[submodule ".vim/plugged/vim-coffee-script"]
+	path = .vim/plugged/vim-coffee-script
+	url = https://github.com/kchmck/vim-coffee-script
+[submodule ".vim/plugged/vim-hcl"]
+	path = .vim/plugged/vim-hcl
+	url = https://github.com/b4b4r07/vim-hcl
+[submodule "vim/plugged/yajs.vim"]
+	path = .vim/plugged/yajs.vim
+	url = https://github.com/othree/yajs.vim
+[submodule "vim/plugged/vim-gitgutter"]
+	path = .vim/plugged/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter
+[submodule "vim/plugins/mango.vim"]
+	path = .vim/plugins/mango.vim
+	url = https://github.com/goatslacker/mango.vim
+[submodule "vim/plugged/vim-multiple-cursors"]
+	path = .vim/plugged/vim-multiple-cursors
+	url = https://github.com/terryma/vim-multiple-cursors

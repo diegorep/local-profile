@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/diegorep/Documents/digit-ml/python27/bernard/transactions_perpetual_learning'
+let g:netrw_dirhist_2='/Users/diegorep/Documents/digit/test/app/services/simulation'
+let g:netrw_dirhist_3='/Users/diegorep/Documents/digit-ml/python27/bernard/dataService'
+let g:netrw_dirhist_4='/Users/diegorep/Documents/digit/scripts/codeGen/outSQLMapping'
+let g:netrw_dirhist_5='/Users/diegorep/Documents/digit-ml/python27/digit_modules/dynamoDb'
+let g:netrw_dirhist_6='/Users/diegorep/Documents/digit/test/helpers'
