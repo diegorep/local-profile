@@ -1,0 +1,4 @@
+cp .bash_profile ~/.bash_profile
+cp .bashrc ~/.bashrc
+cp -r .vim ~/.vim
+cp .vimrc ~/.vimrc
